@@ -1,0 +1,126 @@
+Key,File,Type,ukrainian
+
+languageNameEnglish,UI,Xui Video Options,Ukrainian
+languageNameNative,UI,Xui Video Options,Українська
+
+cultureInfoName,UI,Font,uk-UA
+
+xuiBuffStatDays,UI,XUI,Днів
+xuiBuffStatDuration,UI,XUI,Тривалість
+xuiBuffStatHours,UI,XUI,ГОДИН
+xuiBuffStatTimeLeft,UI,XUI,Лишилося
+xuiBuffStatHealth,UI,XUI,Здоров'я
+xuiBuffStatSickness,UI,XUI,Хвороба
+xuiBuffStatStamina,UI,XUI,Витривалість
+xuiBuffStatWellness,UI,XUI,Самопочуття
+
+airConditioner,blocks,Block,Кондиціонер
+airConditionVentFan,blocks,Block,Вентилятор
+airConditionVentFanDouble,blocks,Block,Подвійний вентилятор
+
+msgLoadingUI,UI,Game loading,Завантаження ГІ
+
+uiLoadCreatingPlayer,UI,Game loading,Створення гравця...
+uiLoadCreatingWorld,UI,Game loading,Підготовка світу...
+
+xuiMapSelfLabel,UI,Map Object Name For Your Character,ВИ
+
+backpackDropped,UI,Menu,Втрачений рюкзак
+
+btnApply,UI,Menu,Застосувати
+btnBack,UI,Menu,Повернутись
+btnCancel,UI,Menu,Відмінити
+btnCollect,UI,Menu,Зібрати
+btnConfirm,UI,Menu,Підтвердити
+btnConnectToServer,UI,Menu,Зєднання з серверов
+btnContinue,UI,Menu,Продовжити
+btnContinueGame,UI,Menu,Продовжити гру
+btnCredits,UI,Menu,Розробники
+btnDefaults,UI,Menu,За замовчуванням
+btnDelete,UI,Menu,Видалити збереження
+btnExit,UI,Menu,Вихід
+btnNewGame,UI,Menu,Нова гра
+btnOffline,UI,Menu,Без мережі
+btnOk,UI,Menu,Так
+btnOptions,UI,Menu,Налаштуваня
+btnOptionsAudio,UI,Menu,Звук
+btnOptionsControls,UI,Menu,Керування
+btnOptionsVideo,UI,Menu,Відео
+btnReset,UI,Menu,За замовчуваням
+btnRetry,UI,Menu,Повторити
+btnStart,UI,Menu,Почати
+btnTakeAll,UI,Menu,Взяти все
+
+xuiConnectToServer,UI,XUi MainMenu,Приєднатися до гри
+xuiContinueGame,UI,XUi MainMenu,Продовжити гру
+xuiCredits,UI,XUi MainMenu,Розробники
+xuiNewGame,UI,XUi MainMenu,Нова гра
+xuiOptions,UI,XUi MainMenu,Налаштування
+xuiQuit,UI,XUi MainMenu,Вихід
+xuiComboOnOffOff,UI,XUi Options Video,Вимк.
+xuiComboOnOffOn,UI,XUi Options Video,Увімк.
+xuiComboYesNoOff,UI,XUi Options Video,Ні
+xuiComboYesNoOn,UI,XUi Options Video,Так
+xuiBtnOptionsAccount,UI,XUi OptionsMenu,Продовжити гру
+xuiBtnOptionsAudio,UI,XUi OptionsMenu,Звук
+xuiBtnOptionsControls,UI,XUi OptionsMenu,Керування
+xuiBtnOptionsProfiles,UI,XUi OptionsMenu,Профіль гравця
+xuiBtnOptionsVideo,UI,XUi OptionsMenu,Відео
+xuiWPplayers,,Players Window Paging in Game,Гравці
+xuiWPquests,,Quests Window Paging in Game,Завдання
+xuiWPskills,,Skills Window Paging in Game,Навички
+xuiBack,,,Повернутись
+xuiGameSettingsServer,UI,Menu,Сервер
+xuiNewSearch,UI,Menu,Новий пошук
+xuiServerStartSearch,UI,Menu,Розпочати пошук
+xuiSteamID,UI,XUI,Назва
+xuiLoadingNews,UI,News window,Завантаження новин ...
+xuiNewsReadMore,UI,News window,Докладніше ...
+xuiCancel,UI,XUI,Відміна
+xuiCharacter,UI,XUI,Персонаж
+xuiClose,UI,XUI,Закрити
+xuiCombine,UI,XUI,Поєднати
+xuiCost,UI,XUI,Вартість
+xuiCrafting,UI,XUI,Виготовлення
+xuiCreative,UI,XUI,Творчість
+xuiCurrentLife,UI,XUI,Поточне здоров'я
+xuiDay,UI,XUI,День
+xuiDayTime,UI,XUI,День/Час
+xuiDeaths,UI,XUI,Смерті
+xuiDecline,UI,XUI,Відхилити
+xuiDefaults,UI,XUi,За замовчуванням
+xuiDefense,UI,XUI,Захист
+xuiDescriptionLabel,UI,XUI,Опис
+xuiEditingTools,UI,XUI,Інструменти редагування
+xuiOk,UI,XUI,Так
+xuiPing,UI,XUI,Пінг
+
+goMaxPlayers,UI,Menu,Макс. кількість гравців
+goMaxPlayersDesc,UI,Menu,"Максимальна кількість одночасних гравців, які можуть приєднатися до вашої гри."
+goMorning,UI,Menu,Ранок
+goNone,UI,Menu,Нічого
+goOff,UI,Menu,Вимк.
+goOn,UI,Menu,Увімк.
+goPasswordProtected,UI,Menu,Захищено паролем
+goPasswordProtectedDesc,UI,Menu,Чи є·на·сервері·встановлений·пароль?
+goPersistentCharacters,UI,Menu,Постійний профіль
+goFreePlayerSlots,UI,Menu,Вільні слоти
+goFreePlayerSlotsDesc,UI,Menu,Поточні на данний момент вільні слоти для гравців.
+goGameHost,UI,Menu,Назва сервера
+goGameHostDesc,UI,Menu,Назва сервера (виділені сервери) або хостинг-плеєр (P2P-хости).
+goGameWorldSize,UI,Menu,Розмір світу
+goGameWorldSizeDesc,UI,Menu,Розмір світу - довжина кожного краю квадратної карти.
+goLanguage,UI,Menu,Мова
+goLanguageDesc,UI,Menu,"Основна мова, що використовується на сервері."
+goRegion,UI,Menu,Регіон
+goRegionDesc,UI,Menu,"Глобальний регіон, у якому розташований сервер.\nВиберіть відповідний регіон для кращої продуктивності."
+goRegionNameAfrica,UI,Menu,Африка
+goRegionNameAsia,UI,Menu,Азія
+goRegionNameCentralAmerica,UI,Menu,Центральна Америка
+goRegionNameEurope,UI,Menu,Європа
+goRegionNameMiddleEast,UI,Menu,Близький Схід
+goRegionNameNorthAmericaEast,UI,Menu,Північна Америка - Схід
+goRegionNameNorthAmericaWest,UI,Menu,Північна Америка - Захід
+goRegionNameOceania,UI,Menu,Океанія
+goRegionNameRussia,UI,Menu,Росія
+goRegionNameSouthAmerica,UI,Menu,Південна Америка
