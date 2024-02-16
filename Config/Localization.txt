@@ -102,7 +102,7 @@ goNone,UI,Menu,Нічого
 goOff,UI,Menu,Вимк.
 goOn,UI,Menu,Увімк.
 goPasswordProtected,UI,Menu,Захищено паролем
-goPasswordProtectedDesc,UI,Menu,Чи є·на·сервері·встановлений·пароль?
+goPasswordProtectedDesc,UI,Menu,Чи є на сервері встановлений пароль?
 goPersistentCharacters,UI,Menu,Постійний профіль
 goFreePlayerSlots,UI,Menu,Вільні слоти
 goFreePlayerSlotsDesc,UI,Menu,Поточні на данний момент вільні слоти для гравців.
